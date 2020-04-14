@@ -6,6 +6,7 @@ makes a Launch Daemon that runs the bash script, it'll run whenever your
 target has their computer on, it sends a target shell every 60 seconds and 
 you can concurrently have multiple shells. Inspired by a Rubber Ducky script 
 by Patrick Mosca.
+https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---OSX-Root-Backdoor
 */
 
 void setup() {

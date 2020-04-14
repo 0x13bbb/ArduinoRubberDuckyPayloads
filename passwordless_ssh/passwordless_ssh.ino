@@ -1,6 +1,7 @@
 #include <Keyboard.h>
 
 //Inserts your public SSH key as an authorized key
+//https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---OSX-Passwordless-SSH-access-%28ssh-keys%29
 
 void setup() {
   Serial.begin(9600);

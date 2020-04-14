@@ -5,6 +5,7 @@
 
 //Very finicky, navigates the settings and disables Windows Defender, you're
 //probably better off just doing it manually
+//https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---Windows-10-%3A-Disable-windows-defender
 
 void setup() {
   Serial.begin(9600);

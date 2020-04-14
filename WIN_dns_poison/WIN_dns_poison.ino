@@ -1,6 +1,7 @@
 #include <Keyboard.h>
 
-//Modifies the hosts file
+//Modifies the hosts file, same as the OSX one but for Windows
+//https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---OSX-Local-DNS-Poisoning
 
 void setup() {
   Serial.begin(9600);

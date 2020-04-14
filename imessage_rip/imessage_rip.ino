@@ -1,6 +1,7 @@
 #include <Keyboard.h>
 
 //Sends iMessages to a server
+//https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---OSX-iMessage-Capture
 
 void setup() {
   Serial.begin(9600);

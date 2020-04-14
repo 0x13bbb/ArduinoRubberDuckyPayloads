@@ -1,6 +1,7 @@
 #include <Keyboard.h>
 
 //Sends ifconfig to a server
+//https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---OSX-Internet-Protocol-Slurp
 
 void setup() {
   Serial.begin(9600);

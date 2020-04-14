@@ -2,6 +2,7 @@
 
 /*
 Modifies a hosts file 
+https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---OSX-Local-DNS-Poisoning
 */
 
 void setup() {
