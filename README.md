@@ -1,2 +1,2 @@
 # ArduinoRubberDuckyPaylaods
-COMP6441 Something Awesome Project
+example rubber ducky payloads for an Arduino Nano 
